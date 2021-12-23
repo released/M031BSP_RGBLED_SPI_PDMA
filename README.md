@@ -25,9 +25,9 @@ update @ 2020/02/07
 
 - bit 0 : ideal high level 0.375x1 us , low level 0.375x2 us
 
-![image](https://github.com/released/M031BSP_RGBLED_SPI_PDMA/blob/master/M031_RGB_1LED_0xFF_0x00_0x00.jpg)
+![image](https://github.com/released/M031BSP_RGBLED_SPI_PDMA/blob/master/scope_M031_RGB_1LED_0xFF_0x00_0x00.jpg)
 
-![image](https://github.com/released/M031BSP_RGBLED_SPI_PDMA/blob/master/scope_bit_High_Low.jpg)
+![image](https://github.com/released/M031BSP_RGBLED_SPI_PDMA/blob/master/scope_bit_High_Low_1LED_0xFF_0x00_0x00.jpg)
 
 3. Upon picture , 2nd channel is PA2 (SPI CLK) 
 
